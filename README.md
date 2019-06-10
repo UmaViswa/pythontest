@@ -1,2 +1,2 @@
 # pythontest
-test repository
+test repository for git command
